@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "movie-clone-ani",
     "public": "dist",
     "ignore": [
       "firebase.json",
